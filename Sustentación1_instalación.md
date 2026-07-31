@@ -22,6 +22,6 @@
 
 ![alt text](image-9.png)
 
-⋆ ˚｡⋆୨୧˚　˚୨୧⋆｡˚ ⋆ Video de youtube con evidencias extra de otros pasos ejecutados en la instalación y en el primer proyecto "Hola mundo" ⋆ ˚｡⋆୨୧˚　˚୨୧⋆｡˚ ⋆
+⋆˚୨୧⋆｡˚ ⋆ Video de youtube con evidencias extra de otros pasos ejecutados en la instalación y en el primer proyecto "Hola mundo" ⋆ ˚୨୧⋆｡˚ ⋆
 
 [![⋆Da clcik aquí para acceder al video con las evidencias⋆](https://youtu.be/DMk1pRYOBFo?si=eydhA2tEa4_eXKU2)](https://youtu.be/DMk1pRYOBFo?si=eydhA2tEa4_eXKU2)
